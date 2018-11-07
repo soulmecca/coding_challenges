@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/two-sum/description/
+
 // if trying with two points like start and end
 // then nums array should be sorted whose time complexity is O(nlogn)
 // with obj (Hash map), we can do this with O(n);
