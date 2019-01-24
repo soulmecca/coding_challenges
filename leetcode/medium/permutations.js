@@ -1,6 +1,5 @@
 // Time complexity is n! where n is the length of the given array. 
 
-
 var permute = function (nums) {
     let final = [];
     
